@@ -10,7 +10,7 @@
   margin              : 0px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(24, 25, 29, 1.0);
+  background-color    : rgba(247, 247, 247, 1.0);
 }
 a {
   text-decoration     : none;
@@ -40,29 +40,23 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.homepage .nikitaresheteev {
+.homepage .nikkitaresheteev {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 44px;
+  top                 : 36px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 1206px;
+  left                : 1219px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "Helvetica", Helvetica, Arial, serif;
   font-size           : 14.0px;
-  color               : rgba(255, 255, 255, 1.0);
+  color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   letter-spacing      : 0.3px;
   line-height         : 17.0px;
-}
-.homepage .nikitaresheteev .span1 {
-  
-}
-.homepage .nikitaresheteev .span2 {
-  
 }
 .homepage .mask {
   background-color    : rgba(255,255,255,0.0);
@@ -136,7 +130,7 @@ div {
   width               : 91px;
   position            : absolute;
   margin              : 0;
-  left                : 0px;
+  left                : 1px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -153,6 +147,19 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
+.homepage .patricktomassogmes5dnykusunsplash {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -79px;
+  height              : 983px;
+  width               : 1309px;
+  position            : absolute;
+  margin              : 0;
+  left                : 91px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.15;
+}
 .homepage .finallogo {
   background-color    : rgba(255,255,255,0.0);
   top                 : 27px;
@@ -167,60 +174,60 @@ div {
 }
 .homepage .landlord {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 704px;
+  top                 : 498px;
   height              : auto;
   width               : 298px;
   position            : absolute;
   margin              : 0;
-  left                : 243px;
+  left                : 305px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
   font-size           : 51.0px;
-  color               : rgba(255, 255, 255, 1.0);
+  color               : rgba(250, 127, 9, 1.0);
   text-align          : center;
   letter-spacing      : 0.64px;
   line-height         : 70.0px;
 }
 .homepage .bitmap {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 150px;
-  height              : 535px;
-  width               : 348px;
+  top                 : 217px;
+  height              : 288px;
+  width               : 388px;
   position            : absolute;
   margin              : 0;
-  left                : 853px;
+  left                : 799px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
 .homepage .bitmap1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 150px;
-  height              : 535px;
-  width               : 378px;
+  top                 : 217px;
+  height              : 288px;
+  width               : 388px;
   position            : absolute;
   margin              : 0;
-  left                : 214px;
+  left                : 260px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
 .homepage .student {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 704px;
+  top                 : 498px;
   height              : auto;
   width               : 298px;
   position            : absolute;
   margin              : 0;
-  left                : 883px;
+  left                : 843px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
   font-size           : 51.0px;
-  color               : rgba(255, 255, 255, 1.0);
+  color               : rgba(8, 180, 202, 1.0);
   text-align          : center;
   letter-spacing      : 0.64px;
   line-height         : 70.0px;
