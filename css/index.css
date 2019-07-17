@@ -1,6 +1,6 @@
 
 
-.homepage {
+.index {
   width               : 100%;
   min-width           : 1400px;
   height              : 100vh;
@@ -27,7 +27,7 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.homepage .rectangle {
+.index .rectangle {
   background-color    : rgba(42, 43, 49, 1.0);
   top                 : 36px;
   height              : 35px;
@@ -40,7 +40,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.homepage .nikitaresheteev {
+.index .nikitaresheteev {
   background-color    : rgba(255,255,255,0.0);
   top                 : 44px;
   height              : auto;
@@ -58,13 +58,13 @@ div {
   letter-spacing      : 0.3px;
   line-height         : 17.0px;
 }
-.homepage .nikitaresheteev .span1 {
+.index .nikitaresheteev .span1 {
   
 }
-.homepage .nikitaresheteev .span2 {
+.index .nikitaresheteev .span2 {
   
 }
-.homepage .mask {
+.index .mask {
   background-color    : rgba(255,255,255,0.0);
   top                 : 47px;
   height              : 12px;
@@ -76,7 +76,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.homepage .mask1 {
+.index .mask1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 46px;
   height              : 16px;
@@ -88,7 +88,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.homepage .rectangle1 {
+.index .rectangle1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 36px;
   height              : 35px;
@@ -105,7 +105,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.homepage .mask2 {
+.index .mask2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 47px;
   height              : 14px;
@@ -117,7 +117,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.homepage .group5 {
+.index .group5 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 36px;
   height              : 35px;
@@ -129,7 +129,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.homepage .group8 {
+.index .group8 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 800px;
@@ -141,7 +141,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.homepage .group8 .group7 {
+.index .group8 .group7 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 800px;
@@ -153,7 +153,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.homepage .finallogo {
+.index .finallogo {
   background-color    : rgba(255,255,255,0.0);
   top                 : 27px;
   height              : 56px;
@@ -165,7 +165,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.homepage .landlord {
+.index .landlord {
   background-color    : rgba(255,255,255,0.0);
   top                 : 584px;
   height              : auto;
@@ -183,7 +183,7 @@ div {
   letter-spacing      : 0.64px;
   line-height         : 70.0px;
 }
-.homepage .student {
+.index .student {
   background-color    : rgba(255,255,255,0.0);
   top                 : 609px;
   height              : auto;
@@ -201,7 +201,7 @@ div {
   letter-spacing      : 0.64px;
   line-height         : 70.0px;
 }
-.homepage .home {
+.index .home {
   background-color    : rgba(255,255,255,0.0);
   top                 : 193px;
   height              : 359px;
@@ -213,7 +213,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.homepage .m1 {
+.index .m1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 175px;
   height              : 394px;

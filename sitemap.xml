@@ -11,12 +11,22 @@
 </url>
 
 <url>
+  <loc>http://small-frost-8877.animaapp.io/dashboardlandlord1</loc>
+  <lastmod>2019-07-17</lastmod>
+</url>
+
+<url>
   <loc>http://small-frost-8877.animaapp.io/dashboardlandlord</loc>
   <lastmod>2019-07-17</lastmod>
 </url>
 
 <url>
-  <loc>http://small-frost-8877.animaapp.io/homepage</loc>
+  <loc>http://small-frost-8877.animaapp.io/index</loc>
+  <lastmod>2019-07-17</lastmod>
+</url>
+
+<url>
+  <loc>http://small-frost-8877.animaapp.io/tenantprofilelandlord1</loc>
   <lastmod>2019-07-17</lastmod>
 </url>
 
@@ -26,12 +36,7 @@
 </url>
 
 <url>
-  <loc>http://small-frost-8877.animaapp.io/dashboardlandlord1</loc>
-  <lastmod>2019-07-17</lastmod>
-</url>
-
-<url>
-  <loc>http://small-frost-8877.animaapp.io/tenantprofilelandlord1</loc>
+  <loc>http://small-frost-8877.animaapp.io/dashboardtenant</loc>
   <lastmod>2019-07-17</lastmod>
 </url>
 
