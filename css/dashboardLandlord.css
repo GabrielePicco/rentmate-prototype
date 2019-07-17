@@ -10,7 +10,7 @@
   margin              : 0px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(255, 255, 255, 1.0);
+  background-color    : rgba(24, 25, 29, 1.0);
 }
 a {
   text-decoration     : none;
@@ -27,21 +27,8 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.dashboardlandlord .patricktomassogmes5dnykusunsplash {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : -2px;
-  height              : 800px;
-  width               : 1309px;
-  position            : absolute;
-  margin              : 0;
-  left                : 91px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.15;
-}
 .dashboardlandlord .rectangle {
-  background-color    : rgba(250, 127, 9, 0.66);
+  background-color    : rgba(42, 43, 49, 1.0);
   top                 : 146px;
   height              : 285px;
   width               : 269px;
@@ -79,6 +66,24 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 149px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 27.0px;
+}
+.dashboardlandlord .photos {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 479px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 970px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -133,10 +138,10 @@ div {
   transform           : rotate(0deg);
 }
 .dashboardlandlord .rectangle4 {
-  background-color    : rgba(250, 127, 9, 0.66);
+  background-color    : rgba(34, 36, 41, 1.0);
   top                 : 513px;
   height              : 340px;
-  width               : 905px;
+  width               : 794px;
   position            : absolute;
   margin              : 0;
   left                : 122px;
@@ -146,30 +151,6 @@ div {
   transform           : rotate(0deg);
   opacity             : 0.63;
 }
-.dashboardlandlord .group {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 213px;
-  height              : 72px;
-  width               : 276px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1066px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.dashboardlandlord .group1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 213px;
-  height              : 72px;
-  width               : 276px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1066px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
 .dashboardlandlord .rectangle5 {
   background-color    : rgba(29, 32, 36, 1.0);
   top                 : 266px;
@@ -178,56 +159,6 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 697px;
-  border-radius       : 2px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.79;
-}
-.dashboardlandlord .description {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 346px;
-  height              : auto;
-  width               : 71px;
-  position            : absolute;
-  margin              : 0;
-  left                : 701px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 10.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : right;
-  letter-spacing      : 0.38px;
-  line-height         : 14.0px;
-}
-.dashboardlandlord .amount {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 299px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 868px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  letter-spacing      : 0.41px;
-  line-height         : 15.0px;
-}
-.dashboardlandlord .rectangle6 {
-  background-color    : rgba(250, 127, 9, 0.56);
-  top                 : 146px;
-  height              : 477px;
-  width               : 313px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1048px;
   border-radius       : 2px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
@@ -264,128 +195,8 @@ div {
   transform           : rotate(0deg);
   font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
   font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  letter-spacing      : 0.3px;
-  line-height         : 33.0px;
-}
-.dashboardlandlord .payed {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 293px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 563px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  letter-spacing      : 0.3px;
-  line-height         : 16.0px;
-}
-.dashboardlandlord .homecontrol {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 342px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 547px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  letter-spacing      : 0.3px;
-  line-height         : 16.0px;
-}
-.dashboardlandlord .cleaning {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 394px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 557px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  letter-spacing      : 0.3px;
-  line-height         : 16.0px;
-}
-.dashboardlandlord .a81 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 284px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 489px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 24.0px;
   color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.3px;
-  line-height         : 33.0px;
-}
-.dashboardlandlord .a81 .span1 {
-  
-}
-.dashboardlandlord .a81 .span2 {
-  
-}
-.dashboardlandlord .a12 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 333px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 489px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.3px;
-  line-height         : 33.0px;
-}
-.dashboardlandlord .a12 .span1 {
-  
-}
-.dashboardlandlord .a12 .span2 {
-  
-}
-.dashboardlandlord .a7 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 385px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 489px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
+  text-align          : center;
   letter-spacing      : 0.3px;
   line-height         : 33.0px;
 }
@@ -402,16 +213,16 @@ div {
   transform           : rotate(0deg);
   font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
   font-size           : 14.0px;
-  color               : rgba(0, 0, 0, 1.0);
+  color               : rgba(255, 255, 255, 1.0);
   text-align          : center;
   letter-spacing      : 0.3px;
   line-height         : 19.0px;
 }
 .dashboardlandlord .alanresheteev .span1 {
-  color               : rgba(255, 255, 255, 1.0);
+  
 }
 .dashboardlandlord .alanresheteev .span2 {
-  color               : rgba(255, 255, 255, 1.0);
+  
 }
 .dashboardlandlord .searchu2026 {
   background-color    : rgba(255,255,255,0.0);
@@ -420,16 +231,16 @@ div {
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 344px;
+  left                : 347px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
   font-size           : 13.0px;
-  color               : rgba(236, 237, 247, 1.0);
+  color               : rgba(66, 67, 75, 1.0);
   text-align          : center;
   letter-spacing      : 0.3px;
-  line-height         : 18.0px;
+  line-height         : 16.0px;
 }
 .dashboardlandlord .searchu2026 .span1 {
   
@@ -437,31 +248,7 @@ div {
 .dashboardlandlord .searchu2026 .span2 {
   
 }
-.dashboardlandlord .transactions {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 170px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 1067px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.3px;
-  line-height         : 22.0px;
-}
-.dashboardlandlord .transactions .span1 {
-  
-}
-.dashboardlandlord .transactions .span2 {
-  
-}
-.dashboardlandlord .rent {
+.dashboardlandlord .price {
   background-color    : rgba(255,255,255,0.0);
   top                 : 205px;
   height              : auto;
@@ -497,141 +284,21 @@ div {
   letter-spacing      : 0.3px;
   line-height         : 33.0px;
 }
-.dashboardlandlord .group2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 287px;
-  height              : 30px;
-  width               : 30px;
-  position            : absolute;
-  margin              : 0;
-  left                : 432px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.dashboardlandlord .group2 .oval42 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 30px;
-  width               : 30px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.dashboardlandlord .group2 .oval41 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 30px;
-  width               : 30px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(180deg); /* IE 9 */
-  -webkit-transform   : rotate(180deg); /* Chrome, Safari, Opera */
-  transform           : rotate(180deg);
-}
-.dashboardlandlord .group21 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 336px;
-  height              : 30px;
-  width               : 30px;
-  position            : absolute;
-  margin              : 0;
-  left                : 432px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.dashboardlandlord .group21 .oval42 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 30px;
-  width               : 30px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.dashboardlandlord .group21 .oval41 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 13px;
-  height              : 16px;
-  width               : 16px;
-  position            : absolute;
-  margin              : 0;
-  left                : 13px;
-  -ms-transform       : rotate(180deg); /* IE 9 */
-  -webkit-transform   : rotate(180deg); /* Chrome, Safari, Opera */
-  transform           : rotate(180deg);
-}
-.dashboardlandlord .all {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 169px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 1225px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  letter-spacing      : 0.41px;
-  line-height         : 15.0px;
-}
-.dashboardlandlord .all .span1 {
-  
-}
-.dashboardlandlord .all .span2 {
-  letter-spacing      : 0.45px;
-}
-.dashboardlandlord .recent {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 169px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 1295px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(96, 97, 102, 1.0);
-  text-align          : center;
-  letter-spacing      : 0.41px;
-  line-height         : 15.0px;
-}
-.dashboardlandlord .recent .span1 {
-  
-}
-.dashboardlandlord .recent .span2 {
-  letter-spacing      : 0.45px;
-}
-.dashboardlandlord .mywallets {
+.dashboardlandlord .rent {
   background-color    : rgba(255,255,255,0.0);
   top                 : 109px;
   height              : auto;
-  width               : auto;
+  width               : 53px;
   position            : absolute;
   margin              : 0;
-  left                : 407px;
+  left                : 408px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
   font-size           : 16.0px;
   color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
+  text-align          : left;
   letter-spacing      : 0.3px;
   line-height         : 22.0px;
 }
@@ -660,170 +327,6 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.dashboardlandlord .u0410ddwallet {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 108px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 955px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(122, 194, 49, 1.0);
-  text-align          : center;
-  letter-spacing      : 0.3px;
-  line-height         : 16.0px;
-}
-.dashboardlandlord .rectangle14 {
-  background-color    : rgba(42, 43, 49, 1.0);
-  top                 : 335px;
-  height              : 29px;
-  width               : 231px;
-  position            : absolute;
-  margin              : 0;
-  left                : 782px;
-  border-radius       : 2px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.dashboardlandlord .newbill {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 300px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 719px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 11.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : right;
-  letter-spacing      : 0.41px;
-  line-height         : 15.0px;
-}
-.dashboardlandlord .rectangle141 {
-  background-color    : rgba(42, 43, 49, 1.0);
-  top                 : 292px;
-  height              : 29px;
-  width               : 65px;
-  position            : absolute;
-  margin              : 0;
-  left                : 782px;
-  border-radius       : 2px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.dashboardlandlord .rectangle142 {
-  background-color    : rgba(42, 43, 49, 1.0);
-  top                 : 292px;
-  height              : 29px;
-  width               : 83px;
-  position            : absolute;
-  margin              : 0;
-  left                : 930px;
-  border-radius       : 2px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.dashboardlandlord .rectangle13 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 386px;
-  height              : 23px;
-  box-sizing          : border-box;
-  width               : 57px;
-  position            : absolute;
-  margin              : 0;
-  left                : 956px;
-  border-radius       : 11px;
-  border-style        : solid;
-  border-width        : 2px;
-  border-color        : rgba(63, 64, 72, 1.0);
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.dashboardlandlord .label1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 300px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 793px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.3px;
-  line-height         : 16.0px;
-}
-.dashboardlandlord .a120 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 300px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 940px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.3px;
-  line-height         : 16.0px;
-}
-.dashboardlandlord .lightandgas {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 343px;
-  height              : auto;
-  width               : 213px;
-  position            : absolute;
-  margin              : 0;
-  left                : 790px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.3px;
-  line-height         : 16.0px;
-}
-.dashboardlandlord .send {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 389px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 967px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  letter-spacing      : 0.3px;
-  line-height         : 16.0px;
-}
 .dashboardlandlord .mask {
   background-color    : rgba(255,255,255,0.0);
   top                 : 47px;
@@ -837,18 +340,6 @@ div {
   transform           : rotate(0deg);
 }
 .dashboardlandlord .mask1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 300px;
-  height              : 14px;
-  width               : 7px;
-  position            : absolute;
-  margin              : 0;
-  left                : 834px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.dashboardlandlord .mask2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 47px;
   height              : 12px;
@@ -872,7 +363,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.dashboardlandlord .group5 .rectangle7 {
+.dashboardlandlord .group5 .rectangle8 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 35px;
@@ -886,7 +377,7 @@ div {
   transform           : rotate(0deg);
   object-fit          : cover;
 }
-.dashboardlandlord .mask3 {
+.dashboardlandlord .mask2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 44px;
   height              : 17px;
@@ -958,43 +449,19 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.dashboardlandlord .mask4 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 293px;
-  height              : 16px;
-  width               : 4px;
+.dashboardlandlord .rectangle115 {
+  background-color    : rgba(50, 50, 53, 1.0);
+  top                 : 689px;
+  height              : 4px;
+  width               : 1px;
   position            : absolute;
   margin              : 0;
-  left                : 648px;
+  left                : 731px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.dashboardlandlord .mask5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 342px;
-  height              : 16px;
-  width               : 4px;
-  position            : absolute;
-  margin              : 0;
-  left                : 648px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.dashboardlandlord .mask6 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 392px;
-  height              : 16px;
-  width               : 4px;
-  position            : absolute;
-  margin              : 0;
-  left                : 648px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.dashboardlandlord .group4 {
+.dashboardlandlord .group {
   background-color    : rgba(255,255,255,0.0);
   top                 : 534px;
   height              : 88px;
@@ -1005,9 +472,8 @@ div {
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  opacity             : 0.75;
 }
-.dashboardlandlord .group4 .rectangle12 {
+.dashboardlandlord .group .rectangle12 {
   background-color    : rgba(42, 43, 49, 1.0);
   top                 : 0px;
   height              : 88px;
@@ -1020,7 +486,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.dashboardlandlord .group4 .stars {
+.dashboardlandlord .group .stars {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 84px;
@@ -1032,7 +498,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.dashboardlandlord .group4 .mariasmith {
+.dashboardlandlord .group .mariasmith {
   background-color    : rgba(255,255,255,0.0);
   top                 : 13px;
   height              : auto;
@@ -1050,7 +516,7 @@ div {
   letter-spacing      : 0.32px;
   line-height         : 18.0px;
 }
-.dashboardlandlord .group4 .profile {
+.dashboardlandlord .group .profile {
   background-color    : rgba(255,255,255,0.0);
   top                 : 56px;
   height              : auto;
@@ -1069,7 +535,7 @@ div {
   letter-spacing      : 0.28px;
   line-height         : 15.0px;
 }
-.dashboardlandlord .group6 {
+.dashboardlandlord .group1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 636px;
   height              : 88px;
@@ -1080,9 +546,8 @@ div {
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  opacity             : 0.75;
 }
-.dashboardlandlord .group6 .rectangle12 {
+.dashboardlandlord .group1 .rectangle12 {
   background-color    : rgba(42, 43, 49, 1.0);
   top                 : 0px;
   height              : 88px;
@@ -1095,7 +560,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.dashboardlandlord .group6 .stars {
+.dashboardlandlord .group1 .stars {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 84px;
@@ -1107,7 +572,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.dashboardlandlord .group6 .johnsmith {
+.dashboardlandlord .group1 .johnsmith {
   background-color    : rgba(255,255,255,0.0);
   top                 : 13px;
   height              : auto;
@@ -1125,25 +590,7 @@ div {
   letter-spacing      : 0.32px;
   line-height         : 18.0px;
 }
-.dashboardlandlord .group6 .a200 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 27px;
-  height              : auto;
-  width               : 85px;
-  position            : absolute;
-  margin              : 0;
-  left                : 649px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 21.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  letter-spacing      : 0.52px;
-  line-height         : 29.0px;
-}
-.dashboardlandlord .group6 .profile {
+.dashboardlandlord .group1 .profile {
   background-color    : rgba(255,255,255,0.0);
   top                 : 56px;
   height              : auto;
@@ -1162,7 +609,7 @@ div {
   letter-spacing      : 0.28px;
   line-height         : 15.0px;
 }
-.dashboardlandlord .group7 {
+.dashboardlandlord .group2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 738px;
   height              : 88px;
@@ -1173,9 +620,8 @@ div {
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  opacity             : 0.75;
 }
-.dashboardlandlord .group7 .rectangle12 {
+.dashboardlandlord .group2 .rectangle12 {
   background-color    : rgba(42, 43, 49, 1.0);
   top                 : 0px;
   height              : 88px;
@@ -1188,7 +634,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.dashboardlandlord .group7 .stars {
+.dashboardlandlord .group2 .stars {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 84px;
@@ -1200,7 +646,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.dashboardlandlord .group7 .jessicasmith {
+.dashboardlandlord .group2 .jessicasmith {
   background-color    : rgba(255,255,255,0.0);
   top                 : 13px;
   height              : auto;
@@ -1218,7 +664,7 @@ div {
   letter-spacing      : 0.32px;
   line-height         : 18.0px;
 }
-.dashboardlandlord .group7 .profile {
+.dashboardlandlord .group2 .profile {
   background-color    : rgba(255,255,255,0.0);
   top                 : 56px;
   height              : auto;
@@ -1249,7 +695,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.dashboardlandlord .group51 .rectangle7 {
+.dashboardlandlord .group51 .rectangle8 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 65px;
@@ -1275,7 +721,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.dashboardlandlord .group52 .rectangle7 {
+.dashboardlandlord .group52 .rectangle8 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 65px;
@@ -1301,7 +747,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.dashboardlandlord .group53 .rectangle7 {
+.dashboardlandlord .group53 .rectangle8 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 65px;
@@ -1327,7 +773,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.dashboardlandlord .group54 .rectangle7 {
+.dashboardlandlord .group54 .rectangle8 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 65px;
@@ -1341,362 +787,6 @@ div {
   transform           : rotate(0deg);
   object-fit          : cover;
 }
-.dashboardlandlord .group8 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 213px;
-  height              : 72px;
-  width               : 276px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1066px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.75;
-}
-.dashboardlandlord .group9 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 293px;
-  height              : 72px;
-  width               : 276px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1066px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.75;
-}
-.dashboardlandlord .group9 .rectangle12 {
-  background-color    : rgba(42, 43, 49, 1.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 276px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 2px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.dashboardlandlord .group9 .a150012dec2018 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 15px;
-  height              : auto;
-  width               : 118px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 10.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.25px;
-  line-height         : 14.0px;
-}
-.dashboardlandlord .group9 .a150012dec2018 .span1 {
-  
-}
-.dashboardlandlord .group9 .a150012dec2018 .span2 {
-  letter-spacing      : 0.21px;
-}
-.dashboardlandlord .group9 .mariasmith {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 32px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 10.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.25px;
-  line-height         : 14.0px;
-}
-.dashboardlandlord .group9 .a200 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 13px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 220px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(254, 254, 254, 1.0);
-  text-align          : right;
-  letter-spacing      : 0.3px;
-  line-height         : 16.0px;
-}
-.dashboardlandlord .group9 .rent1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 46px;
-  height              : auto;
-  width               : 234px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(66, 67, 75, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.3px;
-  line-height         : 16.0px;
-}
-.dashboardlandlord .group10 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 373px;
-  height              : 72px;
-  width               : 276px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1066px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.75;
-}
-.dashboardlandlord .group10 .rectangle12 {
-  background-color    : rgba(42, 43, 49, 1.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 276px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 2px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.dashboardlandlord .group10 .a110011dec2018 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 15px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 10.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.25px;
-  line-height         : 14.0px;
-}
-.dashboardlandlord .group10 .a110011dec2018 .span1 {
-  
-}
-.dashboardlandlord .group10 .a110011dec2018 .span2 {
-  letter-spacing      : 0.21px;
-}
-.dashboardlandlord .group10 .a28 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 13px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 227px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(254, 254, 254, 1.0);
-  text-align          : right;
-  letter-spacing      : 0.3px;
-  line-height         : 16.0px;
-}
-.dashboardlandlord .group10 .maintenance {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 46px;
-  height              : auto;
-  width               : 239px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(66, 67, 75, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.3px;
-  line-height         : 16.0px;
-}
-.dashboardlandlord .group11 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 453px;
-  height              : 72px;
-  width               : 276px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1066px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.75;
-}
-.dashboardlandlord .mask7 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 665px;
-  height              : 24px;
-  width               : 36px;
-  position            : absolute;
-  margin              : 0;
-  left                : 741px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.dashboardlandlord .group12 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 533px;
-  height              : 72px;
-  width               : 276px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1066px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.74;
-}
-.dashboardlandlord .group12 .rectangle12 {
-  background-color    : rgba(42, 43, 49, 1.0);
-  top                 : 0px;
-  height              : 72px;
-  width               : 276px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  border-radius       : 2px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.dashboardlandlord .group12 .a092711dec2018 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 15px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 10.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.25px;
-  line-height         : 14.0px;
-}
-.dashboardlandlord .group12 .a092711dec2018 .span1 {
-  
-}
-.dashboardlandlord .group12 .a092711dec2018 .span2 {
-  letter-spacing      : 0.21px;
-}
-.dashboardlandlord .group12 .johnsmith {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 30px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 10.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.25px;
-  line-height         : 14.0px;
-}
-.dashboardlandlord .group12 .a200 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 13px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 220px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(254, 254, 254, 1.0);
-  text-align          : right;
-  letter-spacing      : 0.3px;
-  line-height         : 16.0px;
-}
-.dashboardlandlord .group12 .rent1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 46px;
-  height              : auto;
-  width               : 250px;
-  position            : absolute;
-  margin              : 0;
-  left                : 16px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(66, 67, 75, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.3px;
-  line-height         : 16.0px;
-}
-.dashboardlandlord .oval5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 383px;
-  height              : 29px;
-  width               : 29px;
-  position            : absolute;
-  margin              : 0;
-  left                : 433px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.dashboardlandlord .oval4 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 405px;
-  height              : 7px;
-  width               : 11px;
-  position            : absolute;
-  margin              : 0;
-  left                : 446px;
-  -ms-transform       : rotate(182deg); /* IE 9 */
-  -webkit-transform   : rotate(182deg); /* Chrome, Safari, Opera */
-  transform           : rotate(182deg);
-}
 .dashboardlandlord .group55 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 36px;
@@ -1709,7 +799,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.dashboardlandlord .group81 {
+.dashboardlandlord .group8 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 800px;
@@ -1721,7 +811,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.dashboardlandlord .group81 .group71 {
+.dashboardlandlord .group8 .group7 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 800px;
@@ -1741,6 +831,159 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 138px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardlandlord .rectangle6 {
+  background-color    : rgba(121, 193, 49, 1.0);
+  top                 : 365px;
+  height              : 49px;
+  width               : 261px;
+  position            : absolute;
+  margin              : 0;
+  left                : 731px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardlandlord .interested {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 373px;
+  height              : auto;
+  width               : 247px;
+  position            : absolute;
+  margin              : 0;
+  left                : 745px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 28.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.6px;
+  line-height         : 38.0px;
+}
+.dashboardlandlord .bedfull {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 293px;
+  height              : 42px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 731px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardlandlord .bedfull1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 293px;
+  height              : 42px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 797px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardlandlord .bedfull2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 293px;
+  height              : 42px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 863px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardlandlord .bed {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 293px;
+  height              : 41px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 932px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardlandlord .schermata20190715alle190324 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 265px;
+  height              : 163px;
+  width               : 261px;
+  position            : absolute;
+  margin              : 0;
+  left                : 407px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardlandlord .rectangle7 {
+  background-color    : rgba(34, 36, 41, 1.0);
+  top                 : 508px;
+  height              : 292px;
+  width               : 410px;
+  position            : absolute;
+  margin              : 0;
+  left                : 966px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.63;
+}
+.dashboardlandlord .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 528px;
+  height              : 113px;
+  width               : 169px;
+  position            : absolute;
+  margin              : 0;
+  left                : 975px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardlandlord .bitmap2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 528px;
+  height              : 118px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1171px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardlandlord .bitmap3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 678px;
+  height              : 92px;
+  width               : 168px;
+  position            : absolute;
+  margin              : 0;
+  left                : 976px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.dashboardlandlord .bitmap4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 673px;
+  height              : 97px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1171px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);

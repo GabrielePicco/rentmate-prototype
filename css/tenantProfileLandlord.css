@@ -27,19 +27,6 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.tenantprofilelandlord .patricktomassogmes5dnykusunsplash {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : -1109px;
-  height              : 3448px;
-  width               : 4592px;
-  position            : absolute;
-  margin              : 0;
-  left                : -1645px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.15;
-}
 .tenantprofilelandlord .rectangle {
   background-color    : rgba(42, 43, 49, 1.0);
   top                 : 36px;
@@ -66,14 +53,14 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.tenantprofilelandlord .tenant {
+.tenantprofilelandlord .turin {
   background-color    : rgba(255,255,255,0.0);
   top                 : 37px;
   height              : auto;
-  width               : auto;
+  width               : 70px;
   position            : absolute;
   margin              : 0;
-  left                : 119px;
+  left                : 145px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -91,16 +78,16 @@ div {
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 1205px;
+  left                : 1206px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
   font-size           : 14.0px;
   color               : rgba(255, 255, 255, 1.0);
   text-align          : center;
   letter-spacing      : 0.3px;
-  line-height         : 19.0px;
+  line-height         : 17.0px;
 }
 .tenantprofilelandlord .nikitaresheteev .span1 {
   
@@ -115,16 +102,16 @@ div {
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 344px;
+  left                : 347px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-family         : "Helvetica", Helvetica, Arial, serif;
   font-size           : 13.0px;
   color               : rgba(66, 67, 75, 1.0);
   text-align          : center;
   letter-spacing      : 0.3px;
-  line-height         : 18.0px;
+  line-height         : 16.0px;
 }
 .tenantprofilelandlord .searchu2026 .span1 {
   
@@ -209,229 +196,6 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.tenantprofilelandlord .mariasmith {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 138px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 242px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.3px;
-  line-height         : 22.0px;
-}
-.tenantprofilelandlord .aboutme {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 268px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 117px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.3px;
-  line-height         : 22.0px;
-}
-.tenantprofilelandlord .age {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 395px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 116px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 21.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.39px;
-  line-height         : 29.0px;
-}
-.tenantprofilelandlord .loremipsumdolorsi {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 294px;
-  height              : auto;
-  width               : 562px;
-  position            : absolute;
-  margin              : 0;
-  left                : 117px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(226, 226, 226, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.3px;
-  line-height         : 16.0px;
-}
-.tenantprofilelandlord .a23 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 398px;
-  height              : auto;
-  width               : 162px;
-  position            : absolute;
-  margin              : 0;
-  left                : 287px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 19.0px;
-  color               : rgba(226, 226, 226, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.47px;
-  line-height         : 26.0px;
-}
-.tenantprofilelandlord .nationality {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 432px;
-  height              : auto;
-  width               : 125px;
-  position            : absolute;
-  margin              : 0;
-  left                : 115px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 21.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.39px;
-  line-height         : 29.0px;
-}
-.tenantprofilelandlord .italian {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 435px;
-  height              : auto;
-  width               : 254px;
-  position            : absolute;
-  margin              : 0;
-  left                : 287px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 19.0px;
-  color               : rgba(226, 226, 226, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.47px;
-  line-height         : 26.0px;
-}
-.tenantprofilelandlord .email {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 469px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 118px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 21.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.52px;
-  line-height         : 29.0px;
-}
-.tenantprofilelandlord .stars {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 110px;
-  height              : 125px;
-  width               : 125px;
-  position            : absolute;
-  margin              : 0;
-  left                : 230px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.tenantprofilelandlord .rectangle3 {
-  background-color    : rgba(31, 32, 40, 1.0);
-  top                 : 501px;
-  height              : 40px;
-  width               : 397px;
-  position            : absolute;
-  margin              : 0;
-  left                : 118px;
-  border-radius       : 2px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.tenantprofilelandlord .nikresheteevgmail {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 513px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 123px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.3px;
-  line-height         : 16.0px;
-}
-.tenantprofilelandlord .personaldetail {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 577px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 116px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.3px;
-  line-height         : 22.0px;
-}
-.tenantprofilelandlord .yourpersonalinform {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 603px;
-  height              : auto;
-  width               : 245px;
-  position            : absolute;
-  margin              : 0;
-  left                : 116px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
-  font-size           : 12.0px;
-  color               : rgba(132, 133, 137, 1.0);
-  text-align          : left;
-  letter-spacing      : 0.3px;
-  line-height         : 16.0px;
-}
 .tenantprofilelandlord .group8 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
@@ -468,43 +232,255 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.tenantprofilelandlord .facebook {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 642px;
-  height              : 88px;
-  width               : 132px;
+.tenantprofilelandlord .rectangle3 {
+  background-color    : rgba(42, 43, 49, 1.0);
+  top                 : 132px;
+  height              : 285px;
+  width               : 1201px;
   position            : absolute;
   margin              : 0;
-  left                : 116px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.tenantprofilelandlord .group51 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 119px;
-  height              : 88px;
-  width               : 89px;
-  position            : absolute;
-  margin              : 0;
-  left                : 119px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.tenantprofilelandlord .group51 .rectangle4 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 88px;
-  width               : 89px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
+  left                : 145px;
   border-radius       : 2px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  object-fit          : cover;
+}
+.tenantprofilelandlord .rectangle4 {
+  background-color    : rgba(42, 43, 49, 1.0);
+  top                 : 451px;
+  height              : 285px;
+  width               : 1201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 145px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tenantprofilelandlord .viagiacomomedici6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 160px;
+  height              : auto;
+  width               : 381px;
+  position            : absolute;
+  margin              : 0;
+  left                : 505px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.36px;
+  line-height         : 33.0px;
+}
+.tenantprofilelandlord .rectangle5 {
+  background-color    : rgba(121, 193, 49, 1.0);
+  top                 : 336px;
+  height              : 54px;
+  width               : 190px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1148px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tenantprofilelandlord .rectangle6 {
+  background-color    : rgba(121, 193, 49, 1.0);
+  top                 : 654px;
+  height              : 54px;
+  width               : 190px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1138px;
+  border-radius       : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tenantprofilelandlord .loremipsumdolorsi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 209px;
+  height              : auto;
+  width               : 825px;
+  position            : absolute;
+  margin              : 0;
+  left                : 505px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(220, 220, 220, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.36px;
+  line-height         : 33.0px;
+}
+.tenantprofilelandlord .loremipsumdolorsi1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 536px;
+  height              : auto;
+  width               : 825px;
+  position            : absolute;
+  margin              : 0;
+  left                : 495px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(220, 220, 220, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.36px;
+  line-height         : 33.0px;
+}
+.tenantprofilelandlord .vialoremmedici23 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 478px;
+  height              : auto;
+  width               : 381px;
+  position            : absolute;
+  margin              : 0;
+  left                : 495px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.36px;
+  line-height         : 33.0px;
+}
+.tenantprofilelandlord .information {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 342px;
+  height              : auto;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1163px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 29.0px;
+  color               : rgba(215, 215, 215, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.44px;
+  line-height         : 40.0px;
+}
+.tenantprofilelandlord .information1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 342px;
+  height              : auto;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1163px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 29.0px;
+  color               : rgba(215, 215, 215, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.44px;
+  line-height         : 40.0px;
+}
+.tenantprofilelandlord .information2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 342px;
+  height              : auto;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1163px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 29.0px;
+  color               : rgba(215, 215, 215, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.44px;
+  line-height         : 40.0px;
+}
+.tenantprofilelandlord .information3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 342px;
+  height              : auto;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1163px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 29.0px;
+  color               : rgba(215, 215, 215, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.44px;
+  line-height         : 40.0px;
+}
+.tenantprofilelandlord .information4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 659px;
+  height              : auto;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1148px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AvenirNext-Regular", Helvetica, Arial, serif;
+  font-size           : 29.0px;
+  color               : rgba(215, 215, 215, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.44px;
+  line-height         : 40.0px;
+}
+.tenantprofilelandlord .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 160px;
+  height              : 230px;
+  width               : 315px;
+  position            : absolute;
+  margin              : 0;
+  left                : 162px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tenantprofilelandlord .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 488px;
+  height              : 193px;
+  width               : 315px;
+  position            : absolute;
+  margin              : 0;
+  left                : 162px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.tenantprofilelandlord .scroolbar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 306px;
+  height              : 168px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1363px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
